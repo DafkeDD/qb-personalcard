@@ -3,8 +3,8 @@ City Services for QB-Core Framework
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
-- [PolyZone](https://github.com/mkafrin/PolyZone) - For Interaction (qb-target both require this)
-- [qb-target](https://github.com/BerkieBb/qb-target) - For Interaction (Optional)
+- [PolyZone](https://github.com/mkafrin/PolyZone) - For Interaction (qb-target)
+- [qb-target](https://github.com/BerkieBb/qb-target) - For Interaction ()
 
 ## Features
 - Ability to request birth certificate when lost
