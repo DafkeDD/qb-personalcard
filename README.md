@@ -24,7 +24,7 @@ ensure qb-cityhall
 ```
 
 ## Screenshots
-![City Services](https://cdn.discordapp.com/attachments/1041752149106905130/1041752715237281812/image.png)
+![City Services](https://user-images.githubusercontent.com/89742984/202264342-8471d187-ced1-48c6-809a-33ae77e94635.png)
 
 
 # License
