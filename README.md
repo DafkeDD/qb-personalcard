@@ -1,4 +1,4 @@
-# qb-cityhall
+# qb-personalcard
 City Services for QB-Core Framework
 
 ## Dependencies
@@ -20,7 +20,7 @@ City Services for QB-Core Framework
 ```
 ensure qb-core
 ensure qb-target # Optional
-ensure qb-cityhall
+ensure qb-personalcard
 ```
 
 ## Screenshots
